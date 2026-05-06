@@ -7,8 +7,8 @@
 // ─── Pins ─────────────────────────────────────────────────────────────────
 #define MOTOR_PIN   35
 // ─── WebSocket Server ─────────────────────────────────────────────────────
-const char*    WS_HOST = "194.233.91.191";
-const uint16_t WS_PORT = 8489;
+const char*    WS_HOST = "**************";
+const uint16_t WS_PORT = ********;
 const char*    WS_PATH = "/";
 // ─── WiFi AP ──────────────────────────────────────────────────────────────
 const char* AP_NAME     = "TerraSpray";
